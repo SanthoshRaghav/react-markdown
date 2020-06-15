@@ -1,1 +1,3 @@
 # react-markdown
+
+[*] Required Setup
